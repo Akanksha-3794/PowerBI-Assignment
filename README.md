@@ -28,7 +28,7 @@ Dataset used:
 <a href= https://github.com/Akanksha414/PowerBI-Assignment/blob/main/EV.xlsm>Dataset</a>
 
 dashboard: 
-<a href= https://github.com/Akanksha414/PowerBI-Assignment/blob/main/ElectricCar_dashboard.png>Dashboard</a>
+<a href= https://github.com/Akanksha-3794/PowerBI-Assignment/blob/main/ElectricCar%20(1).pdf>ElectricCar Dashboard</a>
 
 Insight for back button
 <a href= https://github.com/Akanksha414/PowerBI-Assignment/blob/main/Insights.png> Insights</a>
